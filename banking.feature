@@ -11,3 +11,7 @@ Scenario Outline: Test Scenario 2
   Examples:
     | parameter | something |
     | 42 | calculate |
+    
+    
+    
+Something
